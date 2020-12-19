@@ -7,7 +7,7 @@ requirements = ["ipython>=6", "nbformat>=4", "nbconvert>=5", "requests>=2"]
 
 setup(
     name="advancedstatistic",
-    version="0.0.1",
+    version="0.0.2",
     author="Leor Finkelberg",
     author_email="leor.finkelberg@yandex.ru",
     description="A package to convert your Jupyter Notebook",
