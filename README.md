@@ -10,3 +10,5 @@
 `pip install -U ...`
 
 `pip install git+https://github.com/...`
+
+`pip install -i ...`
